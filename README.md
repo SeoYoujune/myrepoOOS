@@ -1,3 +1,3 @@
-#OSS Git class
+# OSS Git class
 
 Welcome to OSS class
